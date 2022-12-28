@@ -1,0 +1,7 @@
+.content {
+	font-family: "M PLUS Rounded 1c", sans-serif;
+	padding: 30px 50px;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
